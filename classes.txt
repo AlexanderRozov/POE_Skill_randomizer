@@ -8,7 +8,7 @@ Elementalist
 Occultist
 Necromant
 Ascendant
-Rider
+Warden
 Deadeye
 Pathfinder
 Slayer
